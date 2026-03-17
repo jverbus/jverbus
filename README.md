@@ -8,7 +8,7 @@
 
 ## Blog
 
-- 🌐 [jverbus.github.io](https://github.com/jverbus/jverbus.github.io)
+- 🌐 [jverbus.github.io](https://jverbus.github.io)
 
 ## Connect
 
