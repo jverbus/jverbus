@@ -1,15 +1,16 @@
 # James Verbus
 
-AI @ LinkedIn · Physicist
-San Francisco Bay Area
+📍 San Francisco Bay Area
+🧠 AI @ LinkedIn
+⚛️ Physicist
 
 ## Open Source
 
-- [linkedin/isolation-forest](https://github.com/linkedin/isolation-forest)
+- 🌲 [linkedin/isolation-forest](https://github.com/linkedin/isolation-forest)
 
 ## Blog
 
-- [jverbus.github.io](https://github.com/jverbus/jverbus.github.io)
+- 🌐 [jverbus.github.io](https://github.com/jverbus/jverbus.github.io)
 
 ## Connect
 
