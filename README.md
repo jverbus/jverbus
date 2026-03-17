@@ -1,8 +1,6 @@
 # James Verbus
 
-📍 San Francisco Bay Area
-🧠 AI @ LinkedIn
-⚛️ Physicist
+📍 San Francisco Bay Area • 🧠 AI @ LinkedIn • ⚛️ Physicist
 
 ## Open Source
 
